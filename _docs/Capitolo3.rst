@@ -36,7 +36,7 @@ dall’Ente Creditore. Nella Figura 3 è descritto il relativo processo.
 
 3.2 Nuovo capitolo di Accreditamento
 ------------------------------------
-Caps
+Capitolo aggiunto in un secondo passaggio
 
 Il processo di accreditamento schematizzato in Figura 3 si articola nei
 seguenti passi:
