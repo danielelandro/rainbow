@@ -7,8 +7,8 @@
 | **Versione 2.2 – 31 luglio 2018**               |
 +-------------------------------------------------+
 
-1. UTILIZZO DEL PORTALE
-=======================
+1. UTILIZZO DEL PORTALE 2
+==========================
 
 Il Portale delle Adesioni è lo strumento di AgID a supporto della
 gestione dei processi di adesione, attivazione e assistenza
