@@ -38,8 +38,8 @@ dall’Ente Creditore. Nella Figura 3 è descritto il relativo processo.
 ------------------------------------
 Capitolo aggiunto in un secondo passaggio
 
-Correzione per lo issue 1
-*************************
+Correzione per lo issue 1-1-1-1-1
+*********************************
 
 Il processo di accreditamento schematizzato in Figura 3 si articola nei
 seguenti passi:
