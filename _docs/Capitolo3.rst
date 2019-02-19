@@ -34,8 +34,8 @@ dall’Ente Creditore. Nella Figura 3 è descritto il relativo processo.
 **Figura 3 - Processo di accreditamento del Referente dei Pagamenti**
 
 
-3.2 Nuovo capitolo di Accreditamento
-------------------------------------
+3.2 Nuovo capitolo di Accreditamento hhhhh
+------------------------------------------
 Capitolo aggiunto in un secondo passaggio
 
 Correzione per lo issue 1-1-1-1-1
